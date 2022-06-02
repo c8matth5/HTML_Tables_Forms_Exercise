@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 20px;
+    font-family: fantasy;
+    color:darkgreen;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    background-color: peachpuff;
+}

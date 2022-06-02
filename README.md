@@ -8,7 +8,7 @@ slug: "/html-tables-forms-exercise"
 ## Objective
 
 Practice using HTML tables and forms to structure tabular content and take user input on web pages.
-
+     
 ## Exercise 1
 
 Steps are to be completed within the main element in your `index.html` file.
